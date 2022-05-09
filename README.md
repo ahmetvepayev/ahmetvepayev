@@ -6,6 +6,8 @@ I'm currently learning C#, Java, Python and JavaScript
 
 My main focus is C# and related back-end technologies such as .NET and .NET Framework
 
+Reach me at ahmetwepaogly@gmail.com
+
 ### Skills
 
 <p align="left">
