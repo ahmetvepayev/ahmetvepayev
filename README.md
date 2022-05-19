@@ -4,7 +4,7 @@ I have been trying coding on and off for my entire life and recently started ser
 
 I'm currently learning C#, Java, Python and JavaScript
 
-My main focus is C# and related back-end technologies such as .NET and .NET Framework
+My main focus is C# and related backend technologies such as .NET and .NET Framework
 
 Reach me at ahmetwepaogly@gmail.com
 
