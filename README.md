@@ -1,7 +1,5 @@
 ### 👋 Hello there, I'm Ahmet Vepayev
 
-I have been trying coding on and off for my entire life and recently started seriously pursuing a carrer in software development
-
 I'm currently learning C#, Java, Python and JavaScript
 
 My main focus is C# and related backend technologies such as .NET and .NET Framework
