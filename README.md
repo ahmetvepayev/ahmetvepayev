@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Vepayev</h1>
 <h3 align="center">Backend .Net Developer</h3>
 
-- 🔭 I’m currently working on **consolidating my web API projects into a single large project. See the pinned projects.**
+- 🔭 I’m currently working on **consolidating my web API projects into a single large project.**
 
 - 🌱 I’m currently learning **about coding full-fledged maintainable web APIs with ASP.NET Core.**
 
