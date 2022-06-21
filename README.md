@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmet Vepayev</h1>
+<h1 align="center">Hello there 👋, I'm Ahmet Vepayev</h1>
 <h3 align="center">Backend .Net Developer</h3>
 
 - 🔭 I’m currently working on **consolidating my web API projects into a single large project.**
