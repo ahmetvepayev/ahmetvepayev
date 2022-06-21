@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **consolidating my web API projects into a single large project.**
 
-- 🌱 I’m currently learning **about coding full-fledged maintainable web APIs with ASP.NET Core.**
+- 🌱 I’m currently learning **about designing and coding full-fledged maintainable web APIs with ASP.NET Core.**
 
 - 💬 Ask me about **ASP.NET Core Web API, Entity Framework Core, MSSQL DB**
 
