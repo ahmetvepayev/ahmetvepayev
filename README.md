@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Ahmet Vepayev</h1>
 <h3 align="center">Backend .Net Developer</h3>
 
-- 🔭 I’m currently working on **[customer-management-webapi](customer-management-webapi)**
+- 🔭 I’m currently working on **[customer-management-webapi](https://github.com/ahmetvepayev/customer-management-webapi)**
 
 - 🌱 I’m currently learning **about designing and coding full-fledged maintainable web APIs with ASP.NET Core.**
 
