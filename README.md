@@ -1,5 +1,4 @@
 <h1 align="center">Hello there 👋, I'm Ahmet Vepayev</h1>
-<h3 align="center">Backend .Net Developer</h3>
 
 - 🔭 I’m currently working on **a code generator tool using [Roslyn API](https://github.com/dotnet/roslyn/blob/main/docs/wiki/README.md)**
 
